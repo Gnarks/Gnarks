@@ -1,6 +1,6 @@
 ### Hi there 👋
-### To make it simple i'm just learning github
-### Don't hesitate to check and juge my bad coding !
+### To make it simple, i'm just learning github
+### Don't hesitate to check and judge my bad coding !
 
 
 <!--
