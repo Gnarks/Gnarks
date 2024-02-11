@@ -1,7 +1,5 @@
 ### Hi there 👋
-### To make it simple, i'm just learning github
-### Don't hesitate to check and judge my bad coding !
-
+### Nothing to see here really... 
 
 <!--
 **Gnarks/Gnarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
