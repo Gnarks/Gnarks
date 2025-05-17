@@ -1,7 +1,9 @@
 ### Hi there 👋
-# WhoAmI
+## WhoAmI
 I'm Maxime, an IT student at the university of Mons.
-# WhatCanYouExcpect
+
+## WhatCanYouExcpect
 Some repositories from my uni projects, my linux setups and some random things
-# My Intersets
+
+## My Intersets
 Networks, Linux and I really want to get into home labbing. 
