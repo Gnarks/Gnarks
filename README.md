@@ -1,8 +1,7 @@
 ### Hi there 👋
-### Nothing to see here really... 
-
-<!--
-**Gnarks/Gnarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
+# WhoAmI
+I'm Maxime, an IT student at the university of Mons.
+# WhatCanYouExcpect
+Some repositories from my uni projects, my linux setups and some random things
+# My Intersets
+Networks, Linux and I really want to get into home labbing. 
